@@ -6,6 +6,7 @@ It was created from a desire to supplement an on-call engineer's awareness of co
 
 ## Customizing Nagios Alerts
 
+777
 Nagios is a time-tested monitoring and alerting tool used by many Operations teams to keep an eye
 on the shop.  It does an excellent job of executing scheduled checks, determining when a threshold has been exceeded, and sending alerts.
 
